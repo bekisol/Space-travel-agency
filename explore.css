@@ -2,7 +2,7 @@ body{
 
     background: var(--secondary-color);
     color: var( --secondary-color);
-    /*background-image: url(/space_explorer/background-destination-desktop.jpg);*/
+    background-image: url(background-destination-desktop.jpg);
     background-size: cover;
     padding: 0;
     margin: 0;
