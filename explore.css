@@ -10,7 +10,7 @@ body{
 
 
 header{
-    background-image: url(/space_explorer/background-destination-desktop.jpg);
+    background-image: url(background-destination-desktop.jpg);
     padding-bottom: 4em;
     
 }
@@ -304,20 +304,20 @@ a{
         /*jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj*/
 
         .section-1{
-            background-image: url(/space_explorer/background-destination-desktop.jpg);
+            background-image: url(background-destination-desktop.jpg);
            margin-top: -20em;
            padding-top: -6em;
         }
 
         .section-2{
-            background-image: url(/space_explorer/tested.jpg);
+            background-image: url(tested.jpg);
             padding-bottom: 6em;
         }
 
         .section-3{
             margin-top: -3em;
             padding-top: 4em;
-            background-image: url(/space_explorer/tested-2.jpg);
+            background-image: url(tested-2.jpg);
         }
 
         section{
