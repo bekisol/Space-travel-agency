@@ -3,7 +3,7 @@ body{
 
     background: var(--secondary-color);
     color: var( --secondary-color);
-    background-image: url(/space_explorer/back-img.jpg);
+    background-image: url(back-img.jpg);
     background-size: cover;
     box-sizing: border-box;
     padding: 0;
